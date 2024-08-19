@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "file_reader.h"
 
 void lexer() {
-	printf("aa");
-	/* return 0; */
+	read_file("./teste.txt");
 }

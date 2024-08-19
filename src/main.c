@@ -3,5 +3,6 @@
 
 int main(){
     printf("main");
+    lexer();
     return 0;
 }
